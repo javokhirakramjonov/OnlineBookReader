@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "835441543558",
+    "firebase_url": "https://bookapp-9d6d2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "bookapp-9d6d2",
+    "storage_bucket": "bookapp-9d6d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835441543558:android:20c4874d2fcd27990f8407",
+        "android_client_info": {
+          "package_name": "uz.gita.bookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835441543558-4qkhhsbtd1ijfsf229c9cmlld7chgplo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2FVwij1Kyh9X0W4PqTbBsqgZNV4vSPXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835441543558-4qkhhsbtd1ijfsf229c9cmlld7chgplo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
